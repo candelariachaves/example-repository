@@ -6,3 +6,6 @@ print("Welcome Friend!")
 # Ask sth to the user
 
 # Another change
+
+
+#New day, new change
